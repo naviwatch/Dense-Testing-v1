@@ -1,3 +1,4 @@
+---@diagnostic disable: duplicate-index
 local mod = get_mod("Dense Testing")
 
 	--Warcamp
