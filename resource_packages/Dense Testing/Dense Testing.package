@@ -1,0 +1,11 @@
+mod = [
+	"Dense Testing"
+]
+
+package = [
+	"resource_packages/Dense Testing/Dense Testing"
+]
+
+lua = [
+	"scripts/mods/Dense Testing/*"
+]
